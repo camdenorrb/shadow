@@ -18,6 +18,7 @@ plugins {
     id 'idea'
     id 'java-gradle-plugin'
     id 'signing'
+    id 'maven-publish'
 }
 
 // Remove the gradleApi so it isn't merged into the jar file.
